@@ -1,7 +1,7 @@
 ### Hi there i'm Valentino Cambria a Web FullStack Developer👋
 
 # 💫 About Me:
-🔭 I’m currently working on react projects<br>🌱 I’m currently learning  about react, node.js, ejs and swedish lenguage!<br>💬 Ask me about JavaScript, VUE.js, React.js, and gym stuff too!<br>
+🔭 I’m currently working on JAVA projects<br>🌱 I’m currently learning  about react, and deepening more in JAVA, and swedish lenguage!<br>💬 Ask me about JavaScript, VUE.js, React.js, and gym stuff too!<br>
 
 
 ## 🌐 Socials:
