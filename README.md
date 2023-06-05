@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/valentino cambria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentino cambria" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/valentino-cambria-4938a1247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/valentino-cambria-4938a1247/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:21344563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21344563" height="30" width="40" /></a>
 <a href="https://instagram.com/vale_cambria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vale_cambria" height="30" width="40" /></a>
 <a href="https://discord.gg/Vale#1219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vale#1219" height="30" width="40" /></a>
@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valecambria&show_icons=true&locale=en" alt="valecambria" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valecambria&" alt="valecambria" /></p>
+
